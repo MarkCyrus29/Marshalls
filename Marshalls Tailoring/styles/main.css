@@ -1,0 +1,26 @@
+.header {
+  height: 60px;
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: 'Times New Roman', Times, serif;
+
+  background-image: linear-gradient( rgb(40, 78, 231), hsl(240, 71%, 31%));
+  top: 0;
+  right: 0;
+  left: 0;
+  color: white;
+  background-color: rgb(0, 21, 84);
+}
+
+body {
+  height: 5000px;
+  margin: 0;
+  padding-top: 70px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Roboto, Arial;
+}
+
+.text {}
